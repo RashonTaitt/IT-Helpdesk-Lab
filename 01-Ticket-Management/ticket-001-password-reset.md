@@ -9,7 +9,7 @@
 | Priority            | Low                                |
 | Category            | Account / Access                   |
 | Status              | Resolved                           |
-| User                | John Doe                           |
+| User                | Keishana Trotman                   |
 | Assigned Technician | IT Support                         |
 | Issue               | User forgot their Windows password |
 
