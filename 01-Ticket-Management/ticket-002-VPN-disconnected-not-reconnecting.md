@@ -6,7 +6,7 @@
 | ------------------- | -------------------------------------|
 | Ticket ID           | INC-002                              |
 | Date                | 2026-09-03                           |
-| Priority            | Low                                  |
+| Priority            | High                                 |
 | Category            | VPN / Access                         |
 | Status              | Resolved                             |
 | User                | Jevaun Bynoe                         |
