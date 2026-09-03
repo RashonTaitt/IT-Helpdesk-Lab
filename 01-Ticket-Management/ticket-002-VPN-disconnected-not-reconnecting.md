@@ -1,4 +1,4 @@
-# Ticket #001: Password Reset
+# Ticket #002: VPN Issues
 
 ## Ticket Information
 
