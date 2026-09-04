@@ -10,9 +10,10 @@
 | Category            | Software                             |
 | Status              | Open                                 |
 | User                | Sarah Williams                       |
+| Device              | Windows 11 Workstation               |
 | Assigned Technician | IT Support                           |
 | Issue               | Unable to install required software  |
-
+ 
 ## Initial Investigation
 
 - confirmed the user attempted to install 7-Zip.
