@@ -36,7 +36,7 @@ A local network/DNS resolution issue was suspected to have contributed to the VP
 
 ## Resolution
 
-The local DNS cache was cleared and the device was restarted. The user was subsequently able to reconnect to the VPN and regain access to the required network resources.
+The local DNS cache was cleared and the device was restarted. The user was able to reconnect to the VPN and regain access to the required network resources.
 
 ## Final Status
 
