@@ -19,12 +19,12 @@ The user reported that the VPN disconnected and won't reconnect.
 
 ## Troubleshooting Performed
 
-1. Verified the user's identity according to the company's account verification procedure.
-2. Confirmed that the account was not locked due to multiple failed login attempts.
-3. Confirmed that the user was attempting to log into the correct Windows account.
-4. Performed a password reset using the appropriate administrative procedure.
-5. Provided the user with instructions for creating a new secure password.
-6. Confirmed that the user was able to successfully log into the computer.
+1. Noted the user is working remotely.
+2. Opened the command terminal on the remote device.
+3. Ran "ipconfig /flushdns" command to clear stale DNS entries.
+4. Restarted the device to apply changes.
+5. Once logged back in, attempted to reconnect to VPN client.
+6. Verified that the VPN client was successfully connected.
 
 ## Root Cause
 
