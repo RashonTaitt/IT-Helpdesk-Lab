@@ -7,7 +7,7 @@
 | Ticket ID           | INC-002                              |
 | Date                | 2026-09-03                           |
 | Priority            | High                                 |
-| Category            | VPN / Access                         |
+| Category            | Network / Remote Access              |
 | Status              | Resolved                             |
 | User                | Jevaun Bynoe                         |
 | Assigned Technician | IT Support                           |
