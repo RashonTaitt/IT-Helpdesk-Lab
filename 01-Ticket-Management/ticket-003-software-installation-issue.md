@@ -22,3 +22,11 @@
 - Confirmed other applications are installing as normal
 - Confirmed the user has an internet connection and is able to browse websites and work related systems as normal
 - The user is using Windows 11 pro, version 24H2
+
+## Troubleshooting
+
+### Step 1: Run the installer as administrator
+- Right clicked 7-zip installer
+- Selected "run as administrator
+- Attempted download again
+- **Result** installation completed successfully
