@@ -1,4 +1,4 @@
-# Ticket #002: VPN Issues
+# Ticket #002: Network/ Remote Issues
 
 ## Ticket Information
 
@@ -15,7 +15,7 @@
 
 ## Problem Description
 
-The user reported that they were unable to log into their Windows computer because they had forgotten their password.
+The user reported that the VPN disconnected and won't reconnect.
 
 ## Troubleshooting Performed
 
@@ -28,24 +28,13 @@ The user reported that they were unable to log into their Windows computer becau
 
 ## Root Cause
 
-The user forgot their account password.
+Stale DNS entries blocking access
 
 ## Resolution
 
-The user's password was reset and the user successfully regained access to their Windows account.
-
-## Security Considerations
-
-* User identity should be verified before performing a password reset.
-* Passwords should never be shared with IT support personnel.
-* Temporary passwords should be changed immediately after the reset.
-* Passwords should follow the organization's password policy.
-* Account credentials should never be stored in the ticket.
+The client was cleared of old entries and the user was able to reconnect after a system restart
 
 ## Final Status
 
 **Resolved**
 
-## Lessons Learned
-
-This ticket demonstrates the importance of following account verification procedures before resetting passwords. Password resets are simple support requests but can become a security risk if an attacker attempts to impersonate a legitimate user.
