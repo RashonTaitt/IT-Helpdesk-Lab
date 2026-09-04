@@ -16,7 +16,7 @@
  
 ## Initial Investigation
 
-- Confirmed the user attempted to install 7-Zip.
+- The user attempted to install 7-Zip.
 - User reported the installation started as normal then abruptly stops.
 - A popup with an error message saying "Installation failed. Unable to write to the installation directory".
 - This is the user's first time installing this software.
