@@ -29,4 +29,4 @@
 - Right clicked 7-zip installer
 - Selected "run as administrator
 - Attempted download again
-- **Result** installation completed successfully
+- **Result**: installation completed successfully
