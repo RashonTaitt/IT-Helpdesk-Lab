@@ -21,3 +21,16 @@ The user reported that their computer started to run extremely slowly over the l
 Applications would take 5 minutes or more to open and the computer would occasionally freeze.
 
 The Issue was affecting the user from completing work.
+
+## Initial Troubleshooting
+
+The user had already attempted the following to resolve the issue:
+
+- Restarted the computer
+- Closed any extra programs
+
+These action did not resolve the issue.
+
+## Troubleshooting Performed
+
+**1.** Checked for malware and security threats
