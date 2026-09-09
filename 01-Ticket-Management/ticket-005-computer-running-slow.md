@@ -37,3 +37,46 @@ These action did not resolve the issue.
 Ran Windows Defender scanner to check whether malware or other security threats could be contributing to the system's poor performance.
 
 **Result**: Windows defender found 1 threat on the device and deleted it.
+
+**2.** Freed disk space
+Used the built-in Windows Disk Cleanup to remove unnecessary temporary files and other files that were consuming storage space.
+
+**Result**: Additional disk space was recovered.
+
+**3.** Checked for system updates
+Checked Windows update settings for any available system updates and installed all updates that were listed. 
+
+**4.** Restarted the computer
+Performed a fresh restart after completing the maintenance tasks to ensure system updates and changes were properly applied.
+
+## Resolution
+
+The computer was restarted after the troubleshooting and maintenance steps.
+
+## Root cause
+**Contributing factors**:
+- Insufficient available disk space
+- Virus/threat found by windows defender
+- Outdated software
+
+## Technical Notes
+
+The issue was addressed using standard endpoint troubleshooting procedures:
+- Security scan
+- Disk cleanup
+- System updates
+- System restart
+
+If the issue returns, additional troubleshooting should be performed, including checking Task Manager for high CPU/RAM/disk utilization, reviewing startup applications, checking disk health, and examining Windows Event Viewer for recurring errors.
+
+## Skills Demonstrated\
+
+- Windows endpoint troubleshooting
+- Malware/security scanning
+- Disk cleanup and storage management
+- Windows Update management
+- Basic system performance troubleshooting
+- Incident documentation
+- User impact assessment
+- Root cause analysis
+- Troubleshooting escalation procedures
