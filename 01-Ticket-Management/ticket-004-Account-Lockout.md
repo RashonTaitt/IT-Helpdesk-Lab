@@ -23,3 +23,11 @@
 - User attempted to sign in approximately five times using the new password.
 - User is signed into the company account on a mobile phone and work laptop.
 - Account lockout occurred after multiple unsuccessful login attempts.
+
+### Step 1: Check Other Devices
+
+- Suspected another connected device may be using outdated credentials.
+- User was instructed to check the work laptop and company email account.
+- User was instructed to update any saved credentials using the new password.
+- Password was not requested or recorded by the technician.
+- **Result:** [Document what happens]
