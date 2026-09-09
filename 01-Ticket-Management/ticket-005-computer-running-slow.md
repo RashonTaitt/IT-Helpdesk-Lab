@@ -34,3 +34,6 @@ These action did not resolve the issue.
 ## Troubleshooting Performed
 
 **1.** Checked for malware and security threats
+Ran Windows Defender scanner to check whether malware or other security threats could be contributing to the system's poor performance.
+
+**Result**: Windows defender found 1 threat on the device and deleted it.
