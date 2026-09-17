@@ -69,7 +69,7 @@ The issue was addressed using standard endpoint troubleshooting procedures:
 
 If the issue returns, additional troubleshooting should be performed, including checking Task Manager for high CPU/RAM/disk utilization, reviewing startup applications, checking disk health, and examining Windows Event Viewer for recurring errors.
 
-## Skills Demonstrated\
+## Skills Demonstrated
 
 - Windows endpoint troubleshooting
 - Malware/security scanning
