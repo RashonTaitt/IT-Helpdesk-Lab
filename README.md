@@ -14,6 +14,9 @@ End-user communication
 Completed Tickets
 
 INC-001: Password Reset
+
 INC-002: VPN Disconnected/Not Reconnecting
+
 INC-003: Software Installation Issue
+
 INC-004: Computer Running Slow
